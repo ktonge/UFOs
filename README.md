@@ -5,7 +5,7 @@ For this weeks challenge we were given the task of displaying UFO sighting data 
 ## The Website
 The website opens to an unfiltered view of the data in a table.  Once I added the search criteria for the state of California (ca), and the shape triangle, I was left with the following results.
 
-![https://github.com/ktonge/UFOs/blob/main/Challenge%20Code/deliverable_photo.PNG]
+![deliverablePNG](https://github.com/ktonge/UFOs/blob/main/Challenge%20Code/deliverable_photo.PNG)
 
 ## Future Improvements
 
