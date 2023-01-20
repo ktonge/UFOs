@@ -1,11 +1,11 @@
 # UFOs
 ## Overview 
-For this weeks challenge we were given the task of displaying UFO sighting data in a friendly and searchable way using Javascript and HTML. I created a table that displays the data based on a the input of one or more search terms (date, city, state, country, shape).
+For this weeks challenge we were given the task of displaying UFO sighting data in a friendly and searchable way using Javascript and HTML. I created a table that displays the data based on a the input of one or more search terms (date, city, state, country, shape).  The table works by determining if the typed search element is different from the filtered data, if it is, it updates itself to match the new search criteria.  Criteria must be lowercase for the site to function.  
 
 ## The Website
 The website opens to an unfiltered view of the data in a table.  Once I added the search criteria for the state of California (ca), and the shape triangle, I was left with the following results.
 
-![put image here after uploading]
+!(https://github.com/ktonge/UFOs/blob/main/Challenge%20Code/deliverable_photo.PNG)
 
 ## Future Improvements
 
